@@ -44,6 +44,7 @@ ul {
     align-items: center;
     justify-content: center;
     gap: 20px;
+    background: plum;
 }
 .header__content h1 {
     font-size: 50px;
